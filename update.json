@@ -1,8 +1,8 @@
 {
-"updateTime":"2020.4.20",
-"newVersionCode":"13",
-"newVersionName":"1.2.1",
+"updateTime":"2020.4.22",
+"newVersionCode":"14",
+"newVersionName":"1.2.2",
 "information":"请注意：1.0.6版本后签名变更，请卸载旧版本后再安装，之后版本不受影响。\n本次更新包括功能更新及质量更新。",
-"content":"优化详情页介绍文字颜色及动画\n优化启动速度",
-"url":"https://www.lanzous.com/ibq37wj"
+"content":"修复了1.2.1版本无法查看详情、报错的问题\n优化详情页介绍文字颜色及动画\n优化启动速度",
+"url":"https://www.lanzous.com/ibsb5vg"
 }
