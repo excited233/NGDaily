@@ -1,8 +1,8 @@
 {
-"updateTime":"2020.4.22",
-"newVersionCode":"14",
-"newVersionName":"1.2.2",
+"updateTime":"2020.6.17",
+"newVersionCode":"15",
+"newVersionName":"1.2.3",
 "information":"请注意：1.0.6版本后签名变更，请卸载旧版本后再安装，之后版本不受影响。\n本次更新包括功能更新及质量更新。",
-"content":"修复了1.2.1版本无法查看详情、报错的问题\n优化详情页介绍文字颜色及动画\n优化启动速度",
-"url":"https://www.lanzous.com/ibsb5vg"
+"content":"新增精简模式（设置-精简模式），可将首页变为列表显示模式，可防止应用无响应，建议较低配置设备开启\n浏览页面滑动图片时介绍不会消失\n修复全屏功能异常的问题\n各种小修小补",
+"url":"https://too-young.lanzous.com/iFjKodrtg7c"
 }
