@@ -1,8 +1,8 @@
 {
-"updateTime":"2020.8.1",
-"newVersionCode":"17",
-"newVersionName":"1.2.4.1",
+"updateTime":"2020.8.2",
+"newVersionCode":"18",
+"newVersionName":"1.2.5",
 "information":"请注意：1.0.6版本后签名变更，请卸载旧版本后再安装，之后版本不受影响。\n本次更新包括功能更新及质量更新。",
-"content":"优化精简模式\n修复部分场景下Toast颜色出错的问题\n对话框UI更新\n移除收藏功能\n更换图标\n各种小修小补",
-"url":"https://www.lanzoui.com/i8bWwf7krnc"
+"content":"修复查看图片全屏失效的问题\n图片描述取消5行字数限制\n首页UI更新（非精简模式）\n近期更新内容：\n优化精简模式\n修复部分场景下Toast颜色出错的问题\n对话框UI更新\n移除收藏功能\n更换图标\n各种小修小补",
+"url":"https://www.lanzoui.com/ivHtDf7xyyd"
 }
